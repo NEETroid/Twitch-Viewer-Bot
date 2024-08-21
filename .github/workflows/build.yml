@@ -3,7 +3,7 @@ name: CI
 on:
   push:
     branches:
-        - "main-2"
+        - "main-2-125"
 
   # schedule:
   #   - cron: '15 14 * * *'
